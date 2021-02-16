@@ -8,8 +8,8 @@
 
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: ../hybrid_ADAPT/dataset/train/images  # 3498 images
-val: ../hybrid_ADAPT/dataset/test/images  # 300 images
+train: ../ADAPT_doors_and_handles/dataset/train/images  # 3498 images
+val: ../ADAPT_doors_and_handles/dataset/test/images  # 300 images
 
 # number of classes
 nc: 4
